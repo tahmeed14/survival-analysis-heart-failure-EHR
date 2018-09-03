@@ -7,6 +7,13 @@ library(PheWAS)
 library(tidyr)
 library(ggplot2)
 
+## Code was written collaboratively by
+## Tahmeed Tureen, Statistics, University of Michigan '18
+## Deesha Bhaumik, Public Health, Johns Hopkins University '18
+## Christian Erickson, Mathematics, Hope College '19
+
+## The data used in this code is confidential and cannot be shared
+
 # Step 1
 # Reading raw tables from EHR team data source
 ## Data Manipulation(s) Done ## 
